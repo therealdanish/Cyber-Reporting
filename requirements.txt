@@ -4,7 +4,7 @@ asn1crypto == 0.24.0
 cffi == 1.12.2
 cryptography == 2.6.1
 django-extensions == 2.1.6
-Pillow == 5.4.1
+Pillow == 8.3.2
 pycparser == 2.19
 pyOpenSSL == 19.0.0
 pytz == 2018.9
